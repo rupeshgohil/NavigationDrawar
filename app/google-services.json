@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "816525267609",
+    "firebase_url": "https://androidnavigatio-1528616058253.firebaseio.com",
+    "project_id": "androidnavigatio-1528616058253",
+    "storage_bucket": "androidnavigatio-1528616058253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816525267609:android:21d5be3a20793c14",
+        "android_client_info": {
+          "package_name": "aru.navigationdrawar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816525267609-f51a6nnjgheg6n078nfosbo0l4892gen.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "816525267609-41jcoh6pmok96seqcfl970darttqodoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "816525267609-mhqss974pam19vmjd4m8rv04bcgver6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aru.navigationdrawar",
+            "certificate_hash": "9255902598f5e3cd6be581c5ac6468ef5c37926e"
+          }
+        },
+        {
+          "client_id": "816525267609-f51a6nnjgheg6n078nfosbo0l4892gen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKcmjDmR3zDSn3Pcm8lu0X9431kPthlb4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816525267609-f51a6nnjgheg6n078nfosbo0l4892gen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
